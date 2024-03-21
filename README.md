@@ -1,6 +1,13 @@
 # Quiz 1
 
 ```python
+result = (lambda x: x ** 2)(10)
+print(result)  # 출력 결과는 100입니다.
+```
+
+# Quiz 2
+
+```python
 numbers = [111,26,37,48]
 result = []
 for num in numbers:
